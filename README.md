@@ -81,7 +81,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - React
 
 ## Live Demo
-[Live Demo Link](https://olipliche.github.io/React-To-do-App-/)
+[Live Demo Link](https://paka-reack-to-do-app.netlify.app/)
 
 ## Author
 👤 **Olipliche Mavoungou Paka**
